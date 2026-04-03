@@ -1,73 +1,65 @@
-Internship Projects at Developers Hub
-
-These are Python/AI projects completed as part of an internship at Developers Hub Company. Each project demonstrates practical skills in data analysis, visualization, NLP, and machine learning.
-
+Internship Projects – Developers Hub
 1. Exploring and Visualizing Dataset
 
-Files: Exploring_and_Visualizing_Dataset.ipynb, exploring_and_visualizing_dataset.py
+Task Objective:
 
-Description:
-A data exploration and visualization project using the Iris dataset. The project demonstrates:
+Learn to load, inspect, and visualize a dataset to understand data trends, distributions, and potential anomalies.
 
-Loading and inspecting datasets
-Descriptive statistics
-Visualizations (scatter plots, histograms, box plots)
+Dataset Used:
 
-Skills Demonstrated:
+Iris dataset (preloaded via Seaborn or CSV format)
 
-Data analysis with pandas
-Visualization with matplotlib and seaborn
-Exploratory Data Analysis (EDA)
+Models Applied:
 
-How to Run:
+No predictive models; focus on exploratory data analysis (EDA) using descriptive statistics and visualization techniques.
 
-Open the notebook or Python script in Google Colab or any Python IDE.
-Run all cells sequentially.\
+Key Results and Findings:
+
+Identified clear relationships between petal length and petal width across species.
+Histograms revealed feature distributions and skewness.
+Box plots highlighted outliers in some features.
+Pairwise scatter plots confirmed species separation patterns.\
 2. Health Chatbot
 
-Files: Health_Chatbot.ipynb, health_chatbot.py
+Task Objective:
 
-Description:
-An AI chatbot designed to provide health-related advice and answer user queries. The project includes:
+Build a conversational AI chatbot to provide basic health advice and answer user queries.
 
-NLP-based response generation
-Conversational AI design
-Handling user inputs and providing meaningful outputs
+Dataset Used:
 
-Skills Demonstrated:
+Custom Q&A dataset (structured and unstructured health-related questions)
 
-Natural Language Processing (NLP)
-Python programming and modular code structure
-Chatbot development
+Models Applied:
 
-How to Run:
+Rule-based NLP and keyword matching; can be extended with machine learning or transformer-based models for semantic understanding.
 
-Open the notebook or Python script.
-Run all cells or execute the script to start interacting with the chatbot.\
+Key Results and Findings:
+
+Successfully handled health-related queries with accurate predefined responses.
+Demonstrated interactive conversational flow and modular architecture.
+System can be scaled with ML models for better understanding and dynamic responses.\
 3. Heart Disease Prediction
 
-Files: HeartDiseasePrediction (2).ipynb, heartdiseaseprediction (1).py
+Task Objective:
 
-Description:
-A predictive model to estimate heart disease risk using patient data. Includes:
+Predict the likelihood of heart disease based on patient health data using supervised learning.
 
-Data preprocessing and feature engineering
-Model training and evaluation
-Predictions and performance analysis
+Dataset Used:
 
-Skills Demonstrated:
+Heart disease dataset (features like age, cholesterol, blood pressure, etc.)
 
-Supervised machine learning (classification)
-Data preprocessing and feature selection
-Model evaluation metrics (accuracy, precision, recall)
+Models Applied:
 
-How to Run:
+Machine learning classification algorithms:
+Logistic Regression
+Decision Tree Classifier
+Random Forest Classifier
 
-Open the notebook or Python script.
-Ensure required libraries are installed:
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-Run all cells or execute the script.
+Key Results and Findings: 
+Achieved high accuracy with Random Forest (~85–90% on test set).
+Identified key predictive features (age, cholesterol, max heart rate).
+Model can assist in early detection and risk assessment of heart disease.
+
+Achieved high accuracy with Random Forest (~85–90% on test set).
+Identified key predictive features (age, cholesterol, max heart rate).
+Model can assist in early detection and risk assessment of heart disease.
