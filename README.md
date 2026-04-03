@@ -1,5 +1,5 @@
-Internship Projects – Developers Hub
-1. Exploring and Visualizing Dataset
+Internship Projects at Developers Hub
+1. Exploring and Visualizing the Dataset
 
 Task Objective:
 
