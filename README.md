@@ -1,9 +1,9 @@
-🚀 Machine Learning Internship Projects  
-Welcome to my Machine Learning Internship Repository! 👩‍💻  
+🚀 Artificial Intelligence/Machine Learning Internship Projects  
+Welcome to my AI/ML Internship Repository! 👩‍💻  
 
 This repository showcases the practical projects I completed during my internship at **Developers Hub**, where I worked with real-world datasets and applied Machine Learning and data analysis techniques to solve meaningful problems.  
 
-✨ Each project highlights my understanding of the complete workflow — from data exploration to model evaluation and visualization.  
+✨ Each project highlights my understanding of the complete workflow from data exploration to model evaluation and visualization.  
 
 ---
 
