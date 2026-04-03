@@ -22,7 +22,7 @@ Exploratory Data Analysis (EDA)
 How to Run:
 
 Open the notebook or Python script in Google Colab or any Python IDE.
-Run all cells sequentially.
+Run all cells sequentially.\
 2. Health Chatbot
 
 Files: Health_Chatbot.ipynb, health_chatbot.py
@@ -43,7 +43,7 @@ Chatbot development
 How to Run:
 
 Open the notebook or Python script.
-Run all cells or execute the script to start interacting with the chatbot.
+Run all cells or execute the script to start interacting with the chatbot.\
 3. Heart Disease Prediction
 
 Files: HeartDiseasePrediction (2).ipynb, heartdiseaseprediction (1).py
